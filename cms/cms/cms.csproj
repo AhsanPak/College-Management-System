@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26FEF106-C1A6-486F-9F9A-3F6B65F208AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cms</RootNamespace>
+    <AssemblyName>cms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\addingNewBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\addingNewBook.Designer.cs">
+      <DependentUpon>addingNewBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\addmisionDepart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\addmisionDepart.Designer.cs">
+      <DependentUpon>addmisionDepart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admissionDepartAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admissionDepartAdmin.Designer.cs">
+      <DependentUpon>admissionDepartAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\AdmissionQueries.cs" />
+    <Compile Include="Forms\changePasswordBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\changePasswordBox.Designer.cs">
+      <DependentUpon>changePasswordBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\checkingStudentFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\checkingStudentFees.Designer.cs">
+      <DependentUpon>checkingStudentFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\connection.cs" />
+    <Compile Include="Forms\CountBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CountBooks.Designer.cs">
+      <DependentUpon>CountBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CreateUserBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CreateUserBox.Designer.cs">
+      <DependentUpon>CreateUserBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\datagridVeiwWorking.cs" />
+    <Compile Include="Forms\employeeBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\employeeBox.Designer.cs">
+      <DependentUpon>employeeBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\employeeInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\employeeInformation.Designer.cs">
+      <DependentUpon>employeeInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\employeeSalaries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\employeeSalaries.Designer.cs">
+      <DependentUpon>employeeSalaries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\employeeSalaryClass.cs" />
+    <Compile Include="Forms\employeeSalaryInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\employeeSalaryInformation.Designer.cs">
+      <DependentUpon>employeeSalaryInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\feesAmounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\feesAmounts.Designer.cs">
+      <DependentUpon>feesAmounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\feeUpdationBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\feeUpdationBox.Designer.cs">
+      <DependentUpon>feeUpdationBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FinanceAdministration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FinanceAdministration.Designer.cs">
+      <DependentUpon>FinanceAdministration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\financeDepartUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\financeDepartUser.Designer.cs">
+      <DependentUpon>financeDepartUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\humanResources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\humanResources.Designer.cs">
+      <DependentUpon>humanResources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\humanResourcesAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\humanResourcesAdmin.Designer.cs">
+      <DependentUpon>humanResourcesAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\issueBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\issueBook.Designer.cs">
+      <DependentUpon>issueBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\library.cs" />
+    <Compile Include="Forms\libraryAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\libraryAdmin.Designer.cs">
+      <DependentUpon>libraryAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\libraryMemberShip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\libraryMemberShip.Designer.cs">
+      <DependentUpon>libraryMemberShip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\limitingSeats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\limitingSeats.Designer.cs">
+      <DependentUpon>limitingSeats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\limitingSeatsClass.cs" />
+    <Compile Include="Forms\loginAuthentication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\loginAuthentication.Designer.cs">
+      <DependentUpon>loginAuthentication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\loginClass.cs" />
+    <Compile Include="Forms\Classes\manageUsersClass.cs" />
+    <Compile Include="Forms\masterAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\masterAdmin.Designer.cs">
+      <DependentUpon>masterAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\newAdmissionBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\newAdmissionBox.Designer.cs">
+      <DependentUpon>newAdmissionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\payScales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\payScales.Designer.cs">
+      <DependentUpon>payScales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\Classes\QueriesClass.cs" />
+    <Compile Include="Forms\Classes\radioLoad.cs" />
+    <Compile Include="Forms\renewBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\renewBook.Designer.cs">
+      <DependentUpon>renewBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\returnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\returnBook.Designer.cs">
+      <DependentUpon>returnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\returnBookClass.cs" />
+    <Compile Include="Forms\salariesGiven.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\salariesGiven.Designer.cs">
+      <DependentUpon>salariesGiven.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\showingData.cs" />
+    <Compile Include="Forms\studentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\studentDetails.Designer.cs">
+      <DependentUpon>studentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Classes\studentFeeClass.cs" />
+    <Compile Include="Forms\studentFeeCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\studentFeeCollection.Designer.cs">
+      <DependentUpon>studentFeeCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\updateFaculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\updateFaculty.Designer.cs">
+      <DependentUpon>updateFaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\updatingClass.cs" />
+    <Compile Include="Forms\updatingEmployeeFaculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\updatingEmployeeFaculty.Designer.cs">
+      <DependentUpon>updatingEmployeeFaculty.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\addingNewBook.resx">
+      <DependentUpon>addingNewBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\addmisionDepart.resx">
+      <DependentUpon>addmisionDepart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admissionDepartAdmin.resx">
+      <DependentUpon>admissionDepartAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\changePasswordBox.resx">
+      <DependentUpon>changePasswordBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\checkingStudentFees.resx">
+      <DependentUpon>checkingStudentFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CountBooks.resx">
+      <DependentUpon>CountBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CreateUserBox.resx">
+      <DependentUpon>CreateUserBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\employeeBox.resx">
+      <DependentUpon>employeeBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\employeeInformation.resx">
+      <DependentUpon>employeeInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\employeeSalaries.resx">
+      <DependentUpon>employeeSalaries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\employeeSalaryInformation.resx">
+      <DependentUpon>employeeSalaryInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\feesAmounts.resx">
+      <DependentUpon>feesAmounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\feeUpdationBox.resx">
+      <DependentUpon>feeUpdationBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FinanceAdministration.resx">
+      <DependentUpon>FinanceAdministration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\financeDepartUser.resx">
+      <DependentUpon>financeDepartUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\humanResources.resx">
+      <DependentUpon>humanResources.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\humanResourcesAdmin.resx">
+      <DependentUpon>humanResourcesAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\issueBook.resx">
+      <DependentUpon>issueBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\libraryAdmin.resx">
+      <DependentUpon>libraryAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\libraryMemberShip.resx">
+      <DependentUpon>libraryMemberShip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\limitingSeats.resx">
+      <DependentUpon>limitingSeats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\loginAuthentication.resx">
+      <DependentUpon>loginAuthentication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\masterAdmin.resx">
+      <DependentUpon>masterAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\newAdmissionBox.resx">
+      <DependentUpon>newAdmissionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\payScales.resx">
+      <DependentUpon>payScales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\renewBook.resx">
+      <DependentUpon>renewBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\returnBook.resx">
+      <DependentUpon>returnBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\salariesGiven.resx">
+      <DependentUpon>salariesGiven.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\studentDetails.resx">
+      <DependentUpon>studentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\studentFeeCollection.resx">
+      <DependentUpon>studentFeeCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\updateFaculty.resx">
+      <DependentUpon>updateFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\updatingEmployeeFaculty.resx">
+      <DependentUpon>updatingEmployeeFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,160 @@
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\bin\Debug\cms.exe
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\bin\Debug\cms.pdb
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeBox.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Form1.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResources.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.masterAdmin.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Properties.Resources.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csproj.GenerateResource.Cache
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.exe
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.pdb
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addmisionDepart.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryAdmin.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.loginAuthentication.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CreateUserBox.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.financeDepartUser.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.changePasswordBox.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentDetails.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.newAdmissionBox.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addingNewBook.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.issueBook.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryMemberShip.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.returnBook.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.limitingSeats.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feeUpdationBox.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.renewBook.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResourcesAdmin.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updatingEmployeeFaculty.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.admissionDepartAdmin.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentFeeCollection.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.checkingStudentFees.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.FinanceAdministration.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.payScales.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaries.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeInformation.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updateFaculty.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaryInformation.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feesAmounts.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.salariesGiven.resources
+C:\Users\Abdul Moiz\Desktop\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CountBooks.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.exe
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.pdb
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\bin\Debug\cms.exe
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\bin\Debug\cms.pdb
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csprojResolveAssemblyReference.cache
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addingNewBook.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addmisionDepart.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.admissionDepartAdmin.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.changePasswordBox.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.checkingStudentFees.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CountBooks.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CreateUserBox.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeBox.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeInformation.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaries.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaryInformation.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feesAmounts.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feeUpdationBox.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.FinanceAdministration.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.financeDepartUser.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Form1.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResources.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResourcesAdmin.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.issueBook.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryAdmin.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryMemberShip.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.limitingSeats.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.loginAuthentication.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.masterAdmin.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.newAdmissionBox.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.payScales.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Properties.Resources.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.renewBook.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.returnBook.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.salariesGiven.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentDetails.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentFeeCollection.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updateFaculty.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updatingEmployeeFaculty.resources
+C:\Users\Software Engineer Ah\Desktop\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csproj.GenerateResource.Cache
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.exe
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.pdb
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\bin\Debug\cms.exe
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\bin\Debug\cms.pdb
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addingNewBook.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addmisionDepart.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.admissionDepartAdmin.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.changePasswordBox.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.checkingStudentFees.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CountBooks.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CreateUserBox.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeBox.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeInformation.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaries.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaryInformation.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feesAmounts.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feeUpdationBox.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.FinanceAdministration.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.financeDepartUser.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Form1.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResources.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResourcesAdmin.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.issueBook.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryAdmin.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryMemberShip.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.limitingSeats.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.loginAuthentication.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.masterAdmin.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.newAdmissionBox.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.payScales.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Properties.Resources.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.renewBook.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.returnBook.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.salariesGiven.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentDetails.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentFeeCollection.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updateFaculty.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updatingEmployeeFaculty.resources
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csprojResolveAssemblyReference.cache
+E:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csproj.GenerateResource.Cache
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.exe
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.pdb
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\bin\Debug\cms.exe
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\bin\Debug\cms.pdb
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csprojResolveAssemblyReference.cache
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addingNewBook.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.addmisionDepart.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.admissionDepartAdmin.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.changePasswordBox.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.checkingStudentFees.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CountBooks.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.CreateUserBox.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeBox.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeInformation.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaries.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.employeeSalaryInformation.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feesAmounts.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.feeUpdationBox.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.FinanceAdministration.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.financeDepartUser.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Form1.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResources.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.humanResourcesAdmin.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.issueBook.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryAdmin.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.libraryMemberShip.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.limitingSeats.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.loginAuthentication.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.masterAdmin.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.newAdmissionBox.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.payScales.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.Properties.Resources.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.renewBook.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.returnBook.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.salariesGiven.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentDetails.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.studentFeeCollection.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updateFaculty.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.updatingEmployeeFaculty.resources
+F:\CollegeManagementSystem_5\CollegeManagementSystem\cms\cms\obj\x86\Debug\cms.csproj.GenerateResource.Cache
